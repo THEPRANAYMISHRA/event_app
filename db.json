@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Pranay mishra",
+      "age": "20",
+      "place": "lucknow",
+      "batch_name": "",
+      "profession": "FSD"
+    }
+  ]
+}
